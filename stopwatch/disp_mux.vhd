@@ -43,7 +43,7 @@ signal s_clk_mux : std_logic_vector(c_NBIT-1 downto 0);
 signal s_hex : std_logic_vector(4-1 downto 0); -- internal 4-bit data
 begin
 -- sub-block of binary counter (display multiplexing)
--- WRITE YOUR CODE HERE
+
 BINCNT : entity work.bin_cnt
 generic map (
 N_BIT => c_NBIT
