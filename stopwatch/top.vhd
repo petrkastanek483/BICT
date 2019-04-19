@@ -62,3 +62,5 @@ architecture Behavioral of top is
             sseg_o => disp_sseg_o
         );
 end Behavioral;
+
+
