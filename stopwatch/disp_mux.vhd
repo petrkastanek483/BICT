@@ -1,8 +1,8 @@
 --------------------------------------------------------------------------------
 -- Brno University of Technology, Department of Radio Electronics
 --------------------------------------------------------------------------------
--- Author: Tomas Fryza (tomas.fryza@vut.cz)
--- Date: 2019-03-14 08:04
+-- Author: Petr Kastanek
+-- Date: 2019-04-18
 -- Design: disp_mux
 -- Description: 7-segment display time-multiplexing module.
 --------------------------------------------------------------------------------
