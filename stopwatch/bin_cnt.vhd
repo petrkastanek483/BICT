@@ -3,8 +3,8 @@
 --------------------------------------------------------------------------------
 -- Brno University of Technology, Department of Radio Electronics
 --------------------------------------------------------------------------------
--- Author: Tomas Fryza (tomas.fryza@vut.cz)
--- Date: 2019-02-20 12:17
+-- Author: Petr Kastanek
+-- Date: 2019-04-18
 -- Design: bin_cnt
 -- Description: N-bit binary counter with synchronous reset.
 --------------------------------------------------------------------------------
