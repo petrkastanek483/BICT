@@ -1,8 +1,8 @@
 --------------------------------------------------------------------------------
 -- Brno University of Technology, Department of Radio Electronics
 --------------------------------------------------------------------------------
--- Author: Tomas Fryza (tomas.fryza@vut.cz)
--- Date: 2019-02-12 10:13
+-- Author: Petr Kastanek
+-- Date: 2019-04-18
 -- Design: hex_to_sseg
 -- Description: Hexadecimal digit to seven-segment LED decoder.
 --------------------------------------------------------------------------------
