@@ -1,8 +1,8 @@
 --------------------------------------------------------------------------------
 -- Brno University of Technology, Department of Radio Electronics
 --------------------------------------------------------------------------------
--- Author: Tomas Fryza (tomas.fryza@vut.cz)
--- Date: 2019-02-13 14:22
+-- Author: Petr Kastanek
+-- Date: 2019-04-18
 -- Design: one_of_four
 -- Description: 1-of-4 decoder.
 --------------------------------------------------------------------------------
