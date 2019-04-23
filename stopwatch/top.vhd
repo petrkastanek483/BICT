@@ -16,8 +16,7 @@ use ieee.std_logic_1164.all;
 entity top is
     port (
         -- Global input signals at Coolrunner-II board
-        sw_i : in std_logic_vector(1-1 downto 0);     -- set
-        btn_i : in std_logic_vector(1-1 downto 0);		-- reset
+        btn_i : in std_logic_vector(2-1 downto 0);		
 		  clk_i : in std_logic;   -- just for disp_mux to light four 7-segment displays
         
         
@@ -40,8 +39,8 @@ architecture Behavioral of top is
 -- sub-block of stopwatch counter
     CNT : entity work.cnt        
 			port map (
-            rst_n_i => sw_i(0),
-				set_i => btn_i(0),
+            rst_n_i => btn_i(0),
+				set_i => btn_i(1),
 				
 				sec_f_o => sec_f_io, 
 				sec_s_o => sec_s_io,	
